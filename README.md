@@ -1,9 +1,9 @@
-# Mabarelé — Early Prototype
+# Mabarelé — Launching Soon
 
-**Note:** This was an early static prototype of the Mabarelé site (HTML/CSS only).
+This is the current live placeholder for Mabarelé (HTML/CSS), shown to visitors while the full e-commerce platform is being finished.
 
-The current, full-stack version, with an Express backend, MongoDB, OTP-based auth, and Razorpay checkout lives here:
+The complete, full-stack version, with Express backend, MongoDB, OTP auth, and Razorpay checkout, is in active development here:
 
 🔗 **[mabarele-site](https://github.com/sunidhi-nh/mabarele-site)**
 
-This repo is kept for reference only and is not actively maintained.
+This repo will be retired once the full version goes live.
